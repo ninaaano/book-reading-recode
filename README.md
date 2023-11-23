@@ -6,4 +6,4 @@
 | Title | Status |
 |-------|--------|
 | 면접을 위한 CS 전공지식 | 📖 In progress |
-| HTTP 완벽 가이드 | 🔖 Ready |
+| 성공과 실패를 결정하는 1의 네트워크 원리 | 🔖 Ready |
