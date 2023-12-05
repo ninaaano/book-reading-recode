@@ -28,7 +28,7 @@ TCP 프로토콜에는 편리한 기능이 많다. UDP의 필요성과 TCP와의
 ## 프로토콜 스택의 내부 구성
 OS에 내장된 네트워크 제어용 소프트웨어(프로토콜 스택)와 네트워크용 하드웨어(LAN 어댑터)가 브라우저에서 받은 메시지를 서버에 송출하는 동작을 탐험한다. 프로토콜의 스택은 눈에 보이지 않아서 프로토콜 스택이 어떤 것인지 먼저 알아보자
 
-![image](https://github.com/ninaaano/book-reading-recode/assets/95615105/6c16fc9d-a1ec-4701-bd72-af73bccf9247)
+![image](https://github.com/ninaaano/book-reading-recode/assets/95615105/6c16fc9d-a1ec-4701-bd72-af73bccf9247)  
 출처 : https://velog.io/@tastestar/2.-TCPIP
 
 ### 네트워크 애플리케이션
